@@ -1,6 +1,6 @@
 using System;
 
-namespace Bhuvi
+namespace Sample
 {
     class Code1
     {
