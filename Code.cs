@@ -1,7 +1,14 @@
-<h1>Hi Team </h1>
-<p>You can develop your code here </p>
+using System;
+
+namespace Sample
+{
+  class Code
+  {
+    public static void Main(string[] args)
+    {
+      Console.WriteLine("Sample code for Git pull request");
 
 
-
-
-
+    }
+  }
+}
