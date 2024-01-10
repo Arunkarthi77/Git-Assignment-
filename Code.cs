@@ -1,5 +1,7 @@
-<h1>Hi Team </h1>
-<p> First line of the code </p>
+public class GitHub (){
+ public static void Main(string args[]{
+ Console .WriteLine("First line of the code ");
+ }
 
 
 
